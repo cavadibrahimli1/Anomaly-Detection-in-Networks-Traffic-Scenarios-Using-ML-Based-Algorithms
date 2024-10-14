@@ -1,0 +1,2 @@
+# Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms
+This repository contains a project for detecting anomalies in network traffic using machine learning-based algorithms. The project demonstrates the application of various machine learning models to identify unusual patterns or anomalies in network traffic, which could be indicative of security threats such as intrusions or malware activity.
