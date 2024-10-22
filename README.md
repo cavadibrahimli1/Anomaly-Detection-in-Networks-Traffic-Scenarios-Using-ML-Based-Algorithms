@@ -1,10 +1,8 @@
-# Anomaly Detection in Network Traffic Scenarios Using ML-Based Algorithms
-
-## **Project Outline**
+# 📡 Anomaly Detection in Network Traffic Scenarios Using ML-Based Algorithms
 
 ---
 
-### 📅 **Timeline and Progress Overview**
+## 📅 **Timeline and Progress Overview**
 
 | **Progress** | **Task**                      | **Due Date** | **About**                                                                                          | **Deliverables**                     | **Weight** | **Links** |
 |--------------|--------------------------------|--------------|----------------------------------------------------------------------------------------------------|--------------------------------------|------------|-----------|
@@ -17,4 +15,12 @@
 
 ---
 
+## 👥 **Contributors**
 
+| **Name**           | **Student ID**  | **GitHub Profile**                           |
+|--------------------|-----------------|----------------------------------------------|
+| **Batu Burgu**      | 0402010098      | [GitHub](https://github.com/batuburgu)       |
+| **Javad Ibrahimli** | 040210932       | [GitHub](https://github.com/cavadibrahimli1) |
+| **Kerem Karadeniz** | 0402110049      | [GitHub](https://github.com/keremblacksea)   |
+
+---
