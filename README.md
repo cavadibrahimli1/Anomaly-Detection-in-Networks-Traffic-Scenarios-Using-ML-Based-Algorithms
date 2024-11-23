@@ -1,6 +1,14 @@
 # 📡 Anomaly Detection in Network Traffic Scenarios Using ML-Based Algorithms
 
----
+## 📝 Project Description
+This project focuses on developing and implementing machine learning-based algorithms for detecting anomalies in network traffic scenarios. Our approach combines modern ML techniques with network security principles to identify and classify unusual patterns that may indicate security threats or network issues.
+
+## 🎯 Key Objectives
+- Develop ML models for real-time anomaly detection in network traffic
+- Implement and evaluate multiple detection algorithms
+- Create a scalable and efficient detection system
+- Validate results through extensive simulation experiments
+
 
 ## 📅 **Timeline and Progress Overview**
 
