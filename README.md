@@ -226,7 +226,9 @@ private:
 </td>
 </tr>
 </table>
-## 👥 Research Team
+
+
+## Research Team
 
 <div align="center">
 
