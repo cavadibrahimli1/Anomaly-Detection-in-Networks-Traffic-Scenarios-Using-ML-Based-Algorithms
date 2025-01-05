@@ -87,7 +87,7 @@ graph TD
 </td>
 <td width="50%">
 
-### Future Roadmap (2025)
+### Future Roadmap (2024)
 - **🎯 Enhanced Accuracy (Q1)**
   - Deep learning integration
   - Feature selection optimization
@@ -107,6 +107,17 @@ graph TD
 </td>
 </tr>
 </table>
+
+### Development Phases
+
+| Phase | Status | Deliverable | Weight | Documentation |
+|-------|--------|-------------|---------|---------------|
+| Research Proposal | ✅ | Proposal Document | 10% | [View](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/tree/main/1.%20Research%20Proposal) |
+| Simulation Tools Study | ✅ | Technical Report | 10% | [View](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/blob/main/2.%20Study%20of%20Simulation%20Tools/Data_Communication___Simulation.pdf) |
+| Network Design | ✅ | Design Document | 20% | [View](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/blob/main/3.%20Network%20Design/Network%20Design.pdf) |
+| Simulation Experiments | ✅ | Results Report | 20% | [View](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/blob/main/4.%20Simulation%20Experiments/Simulation_Experiments.pdf) |
+| Research Article | ⏳ | IEEE Paper | 20% | In Progress |
+| Final Presentation | ✅ | Presentation | 20% | [View](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/blob/main/6.%20Presentation%20and%20Demo/presentation.pdf) |
 
 ## 💡 Technical Implementation
 
