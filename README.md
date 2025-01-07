@@ -257,10 +257,8 @@ private:
 
 <h2>📫 Connect With Us</h2>
 
-[![GitHub Issues](https://img.shields.io/github/issues/cavadibrahimli1/network-anomaly-detection?style=for-the-badge)](https://github.com/cavadibrahimli1/network-anomaly-detection/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/cavadibrahimli1/network-anomaly-detection?style=for-the-badge)](https://github.com/cavadibrahimli1/network-anomaly-detection/discussions)
-[![Documentation](https://img.shields.io/badge/documentation-read-blue?style=for-the-badge)](docs/)
-
+[![GitHub Issues](https://img.shields.io/github/issues/cavadibrahimli1/network-anomaly-detection?style=for-the-badge)](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/cavadibrahimli1/network-anomaly-detection?style=for-the-badge)](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/issues/discussions)
 </div>
 
 ---
