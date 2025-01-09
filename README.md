@@ -116,7 +116,7 @@ graph TD
 | Simulation Tools Study | ✅ | Technical Report | 10% | [View](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/blob/main/2.%20Study%20of%20Simulation%20Tools/Data_Communication___Simulation.pdf) |
 | Network Design | ✅ | Design Document | 20% | [View](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/blob/main/3.%20Network%20Design/Network%20Design.pdf) |
 | Simulation Experiments | ✅ | Results Report | 20% | [View](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/blob/main/4.%20Simulation%20Experiments/Simulation_Experiments.pdf) |
-| Research Article | ⏳ | IEEE Paper | 20% | In Progress |
+| Research Article | ✅ | IEEE Paper | 20% | [View](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/blob/main/5.%20Research%20Article/paper.pdf) |
 | Final Presentation | ✅ | Presentation | 20% | [View](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/blob/main/6.%20Presentation%20and%20Demo/presentation.pdf) |
 
 ## 💡 Technical Implementation
@@ -258,7 +258,7 @@ private:
 <h2>📫 Connect With Us</h2>
 
 [![GitHub Issues](https://img.shields.io/github/issues/cavadibrahimli1/network-anomaly-detection?style=for-the-badge)](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/cavadibrahimli1/network-anomaly-detection?style=for-the-badge)](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/issues/discussions)
+[![GitHub Discussions](https://img.shields.io/github/discussions/cavadibrahimli1/network-anomaly-detection?style=for-the-badge)](https://github.com/cavadibrahimli1/Anomaly-Detection-in-Networks-Traffic-Scenarios-Using-ML-Based-Algorithms/discussions)
 </div>
 
 ---
